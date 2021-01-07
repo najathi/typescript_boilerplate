@@ -5,3 +5,6 @@
 
 # compile the typescript file
 `tsc`
+
+# or compile app.ts file
+`tsc app.ts`
