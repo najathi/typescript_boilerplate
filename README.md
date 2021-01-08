@@ -8,3 +8,6 @@
 
 # or compile app.ts file
 `tsc app.ts`
+
+# or auto compile when save the file
+`tsc -w`
