@@ -14,3 +14,5 @@
 
 ### bundle to create on file
 `tsc --outFile app.js file1.ts file1.ts file2.ts....`
+##### or watch file
+`tsc --outFile app.js file1.ts file1.ts file2.ts.... -w`
