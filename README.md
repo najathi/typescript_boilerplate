@@ -16,3 +16,6 @@
 `tsc --outFile app.js file1.ts file1.ts file2.ts....`
 ##### or watch file
 `tsc --outFile app.js file1.ts file1.ts file2.ts.... -w`
+
+### one main file has manage the app
+`tsc app.ts --outFile app.js -w`
