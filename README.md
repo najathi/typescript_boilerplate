@@ -11,3 +11,6 @@
 
 ### or auto compile when save the file
 `tsc -w`
+
+### bundle to create on file
+`tsc --outFile app.js file1.js file1.js file2.js....`
