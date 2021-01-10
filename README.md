@@ -19,3 +19,6 @@
 
 ### one main file has manage the app
 `tsc app.ts --outFile app.js -w`
+
+### can be convert to one moduler file
+`tsc --outFile app.js`
